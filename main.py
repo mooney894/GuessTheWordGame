@@ -4,7 +4,7 @@ word_list = ["python", "programming", "computer", "game", "code"]
 random_word = random.choice(word_list)
 hidden_word = "*" * len(random_word)
 
-lives = 3 # Number of lives or attempts
+lives = 6 # Number of lives or attempts
 incorrect_guesses = []
 
 while lives > 0:
@@ -41,7 +41,10 @@ while lives > 0:
         else:
             print("Incorrect guess!")
             lives -= 1
-            incorrect_guesses.append(guess)
+            
+    if guess not in random_word and guess not in incorrect_guesses:
+        incorrect_guesses.append(guess)
+        lives -= 1
             
     print() # Add a blank line for readability
     
