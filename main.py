@@ -1,6 +1,9 @@
 import random
 
-word_list = ["python", "programming", "computer", "game", "code"]
+# Read word list from file
+with open("word_list.txt", "r") as file:
+    word_list = [word.strip() for word in file.readlines()]
+
 random_word = random.choice(word_list)
 hidden_word = "*" * len(random_word)
 
