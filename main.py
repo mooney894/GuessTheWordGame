@@ -1,10 +1,22 @@
 import random
 
+# Define a dictionary of words and hints
+word_hint_dict = {}
+
+# Read word and hint pairs from file
+with open("hint_list.txt", "r") as file:
+    for line in file:
+        line = line.strip()
+        if line:
+            word, hint = line.split(":")
+            word_hint_dict[word.strip()] = hint.strip()
+
 # Read word list from file
 with open("word_list.txt", "r") as file:
     word_list = [word.strip() for word in file.readlines()]
 
 random_word = random.choice(word_list)
+hint = word_hint_dict.get(random_word)
 hidden_word = "*" * len(random_word)
 
 lives = 6 # Number of lives or attempts
