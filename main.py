@@ -19,6 +19,9 @@ random_word = random.choice(word_list)
 hint = word_hint_dict.get(random_word)
 hidden_word = "*" * len(random_word)
 
+# Print the hint for each chosen word
+print("Hint: ", hint)
+
 lives = 6 # Number of lives or attempts
 incorrect_guesses = []
 
