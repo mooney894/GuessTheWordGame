@@ -16,17 +16,16 @@ with open("word_list.txt", "r") as file:
     word_list = [word.strip() for word in file.readlines()]
 
 random_word = random.choice(word_list)
-hint = word_hint_dict.get(random_word)
 hidden_word = "*" * len(random_word)
-
-# Print the hint for each chosen word
-print("Hint: ", hint)
+hint = word_hint_dict.get(random_word)
 
 lives = 6 # Number of lives or attempts
 incorrect_guesses = []
 
 while lives > 0:
     print("Hidden Word:", hidden_word)
+    # Print the hint for each chosen word
+    print("Hint: ", hint)
     print("Incorrect Guesses:", incorrect_guesses)
     print("Lives Remaining:", lives)
     
