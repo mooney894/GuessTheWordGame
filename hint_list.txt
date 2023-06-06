@@ -1,0 +1,95 @@
+python: A snake-like name shared with a popular programming language.
+programming: The act of giving instructions to a computer to perform specific tasks.
+computer: An electronic device that processes data and performs various operations.
+game: An activity or form of entertainment, often involving competition and rules.
+code: Instructions written in a programming language that tell a computer what to do.
+openai: An artificial intelligence research laboratory known for its advanced technologies.
+chatbot: An AI-powered program designed to interact with users via conversational interfaces.
+intelligence: The ability to acquire knowledge, reason, and solve problems.
+algorithm: A set of steps or rules followed to solve a specific problem or accomplish a task.
+data: Information in a raw or processed form that can be stored and manipulated by a computer.
+database: A structured collection of data organized and stored in a computer system.
+network: A system of interconnected devices and communication channels.
+web: The interconnected network of documents and resources accessible via the internet.
+internet: A global network of computers and networks that allows information sharing.
+security: Measures taken to protect computer systems and data from unauthorized access.
+software: Programs and applications that run on a computer system.
+hardware: The physical components of a computer system.
+keyboard: An input device used to type characters and commands into a computer.
+mouse: A pointing device used to interact with graphical user interfaces.
+monitor: A display device used to output visual information from a computer.
+printer: A device that produces a physical copy of digital documents or images.
+router: A networking device that forwards data packets between computer networks.
+server: A computer or system that provides services or resources to other computers.
+cloud: A network of remote servers used for storing and accessing data over the internet.
+backup: The process of creating copies of data to protect against loss or damage.
+virtual: Existing or simulated in a software or virtualized environment.
+mobile: Refers to devices that can be easily carried or moved.
+application: A software program designed to perform specific tasks for users.
+interface: The point of interaction between a user and a computer system or device.
+browser: Software used to access and view websites and web pages.
+website: A collection of web pages accessible via the internet.
+email: Electronic mail used for sending and receiving messages over computer networks.
+encryption: The process of converting data into a coded form to protect its confidentiality.
+authentication: Verifying the identity or validity of a user or entity.
+artificial: Created or produced by human-like intelligence or machines.
+machine: A device that uses mechanical or digital processes to perform tasks.
+learning: The process of acquiring knowledge or skills through study, experience, or teaching.
+analytics: The systematic analysis of data to derive insights and make informed decisions.
+responsive: Adapting to different screen sizes and devices for optimal user experience.
+design: The process of creating and arranging visual elements for aesthetic or functional purposes.
+framework: A software platform that provides a foundation for developing applications.
+debugging: The process of identifying and fixing errors or defects in a software program.
+testing: The process of evaluating a system or software to ensure it meets requirements.
+agile: An iterative approach to software development that emphasizes flexibility and collaboration.
+scrum: A framework used in agile software development for managing complex projects.
+version: A particular form or variant of a software program.
+control: The ability to regulate or manage a system or process.
+repository: A central location for storing and managing version-controlled files.
+github: A web-based platform for version control and collaboration on software projects.
+gitlab: A web-based platform for managing Git repositories and CI/CD pipelines.
+bitbucket: A web-based platform for hosting Git repositories and collaboration.
+javascript: A programming language used for creating interactive web pages and web applications.
+html: The standard markup language used for creating web pages and applications.
+css: The style sheet language used for describing the presentation of a document written in HTML.
+bootstrap: A popular front-end framework for building responsive and mobile-first websites.
+jquery: A fast and concise JavaScript library for simplifying HTML document traversal and manipulation.
+backend: Refers to the server-side of a web application that handles processing and data management.
+frontend: Refers to the client-side of a web application that deals with user interface and interaction.
+api: Application Programming Interface, a set of rules and protocols for building software applications.
+json: JavaScript Object Notation, a lightweight data interchange format.
+xml: Extensible Markup Language, a markup language for encoding documents in a human-readable format.
+rest: Representational State Transfer, an architectural style for web services.
+soap: Simple Object Access Protocol, a protocol for exchanging structured information in web services.
+docker: A containerization platform for packaging software applications and their dependencies.
+virtualization: Creating virtual instances of computer resources such as servers, storage, or networks.
+linux: An open-source operating system based on the Unix kernel.
+windows: A widely used operating system developed by Microsoft.
+macos: The operating system used on Apple Macintosh computers.
+android: The mobile operating system developed by Google.
+ios: The mobile operating system used on Apple devices.
+sql: Structured Query Language, a language used for managing and manipulating databases.
+mysql: An open-source relational database management system.
+postgresql: An open-source object-relational database management system.
+mongodb: A popular NoSQL document database.
+firebase: A mobile and web application development platform by Google.
+oauth: An open standard for authorization and authentication.
+authentication: Verifying the identity or validity of a user or entity.
+authorization: Granting or denying access to specific resources or actions.
+deployment: The process of making a software application available for use.
+scaling: Increasing or decreasing the resources of a system to handle varying demands.
+serverless: A cloud computing execution model where the cloud provider manages infrastructure.
+microservices: An architectural style that structures an application as a collection of loosely coupled services.
+devops: A set of practices that combines software development and IT operations.
+continuous: An approach that emphasizes ongoing and automated software delivery.
+integration: The process of merging code changes from multiple contributors into a shared repository.
+delivery: The process of deploying software to production or making it available to users.
+monitoring: The practice of observing and measuring the performance and availability of a system.
+logging: Recording events and activities within a system for troubleshooting and analysis.
+performance: The efficiency and responsiveness of a system or software.
+optimization: The process of making a system or software as efficient as possible.
+penetration: Testing the security of a system by simulating real-world attacks.
+blockchain: A decentralized and distributed digital ledger used for recording transactions.
+cryptocurrency: Digital or virtual currency that uses cryptography for secure transactions.
+smart: Refers to devices or systems that can operate autonomously or with minimal human intervention.
+contract: A legally binding agreement between two or more parties.
